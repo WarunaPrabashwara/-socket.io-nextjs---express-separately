@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=Q3GzI90_UFU
+meken thama basement eka gatthe
+
+backend run karanna 	nodemon app.js
+fromend run karanna 	npm run dev
+
+
+next js eka build karanna  	npm run build
+start karanne 			npm run start
+
+npm run start kiyana eka npm run build eka run kalaata passe run kalee nattham eeka wada karanne naha 
+
+npm run build eke build eka hadenne .next kiyana filder eka athule 
+
+
+
+
+
+
+
+
